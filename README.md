@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o Bruno 👋
 
-<!--
-**munizbruno88/munizbruno88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição para a área de desenvolvimento backend  
+📚 Estudando **Go (Golang)** com foco em fundamentos e projetos práticos  
+☁️ Me preparando para a certificação **AWS Cloud Practitioner**  
+🧠 Aprofundando conhecimentos em lógica, ponteiros, structs, slices e controle de versão com Git
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como me encontrar
+
+- Email: `bgmuniz.23@gmail.com`
+- LinkedIn: [linkedin.com/in/bruno-g-muniz](https://www.linkedin.com/in/bruno-g-muniz/)
+
+---
+🛠️ “Aprender é praticar todos os dias o que parece difícil hoje.”  
