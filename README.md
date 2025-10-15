@@ -2,7 +2,6 @@
 
 🎯 Em transição para a área de desenvolvimento backend  
 📚 Estudando **Go (Golang)** com foco em fundamentos e projetos práticos  
-☁️ Me preparando para a certificação **AWS Cloud Practitioner**  
 🧠 Aprofundando conhecimentos em lógica, ponteiros, structs, slices e controle de versão com Git
 
 ---
